@@ -6,7 +6,7 @@ Run over folders and files and execute Pe2Json.
 
 ## Arguments:
 - Folder to scan
-- Output result folder
+- Output results folder
 - Optional - Pe2Json.exe file location <br>
   *(default location in peloop folder)
 
