@@ -1,2 +1,2 @@
 # PELoop
-Run over folders and files and execute pe2json
+Run over folders and files and execute Pe2Json.
